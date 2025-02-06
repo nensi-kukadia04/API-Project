@@ -1,0 +1,5 @@
+{
+    "git.verboseCommit": true,
+    "git.terminalGitEditor": false,
+    "git.ignoreWindowsGit27Warning": false
+}
